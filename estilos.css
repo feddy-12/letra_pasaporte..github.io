@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family:Verdana;
+    background-color: #002345;
+    color: #ABCDEF;
+  }
+  h1{
+    text-align: center;
+    margin: 80px 0 20px 0;
+    color: white;
+  }
+  #conten__general{
+    text-align: center;
+    margin-bottom: 80px;
+    color: white;
+  }
+  #boton{
+    font-size: 1.2em;
+    width: 73px;
+    height: 35px;
+  }
+  #boton:hover{
+    background-color: rgba(185, 187, 187, 0.879);
+    transition: ease all;
+  }
+  #numero{
+    width: 300px;
+    height: 40px;
+    font-size: 30px;
+  }
+  #letra{
+    width: 300px;
+    height: 40px;
+    font-size: 30px;
+  }
+   
+  
+  
